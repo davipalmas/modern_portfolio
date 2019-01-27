@@ -186,7 +186,7 @@ main {
     grid-area: etc; }
   .about-info .skill-coding {
     grid-area: skillcoding; }
-  .about-info .skill-robotics {
+  .about-info .skill-robot {
     grid-area: skillrobot; }
   .about-info .skill-ops {
     grid-area: skillops; }
@@ -333,7 +333,7 @@ main {
   width: 5%; }
 
 .ros {
-  background-color: none;
+  background-color: #fff;
   width: 5%; }
 
 .timeline {
