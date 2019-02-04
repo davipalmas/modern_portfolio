@@ -278,6 +278,10 @@ main {
   background-color: #8993be;
   width: 5%; }
 
+.markdown {
+  background: #000;
+  width: 5%; }
+
 .sql {
   background-color: #007a7a;
   width: 35%; }
@@ -300,15 +304,39 @@ main {
 
 .gazebo {
   background-color: #d3d3d3;
-  width: 10%; }
+  width: 15%; }
 
 .v_rep {
   background-color: #00c7fe;
-  width: 15%; }
+  width: 18%; }
 
 .rosrobotics {
   background-color: #fff;
   width: 20%; }
+
+.opencv {
+  background-color: #e6e6fa;
+  width: 12%; }
+
+.pcl {
+  background-color: #f8f8f8;
+  width: 12%; }
+
+.cmake {
+  background-color: #708090;
+  width: 12%; }
+
+.turtlebot {
+  background-color: #fffafa;
+  width: 12%; }
+
+.qt {
+  background-color: #c0c0c0;
+  width: 12%; }
+
+.matlab {
+  background-color: #ffd700;
+  width: 5%; }
 
 .git {
   background-color: #f05033;
