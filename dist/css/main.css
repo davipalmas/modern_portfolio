@@ -260,7 +260,7 @@ main {
 
 .js {
   background-color: #fbde34;
-  width: 5%; }
+  width: 15%; }
 
 .nodejs {
   background-color: #83cd29;
@@ -268,7 +268,7 @@ main {
 
 .python {
   background-color: #37709f;
-  width: 10%; }
+  width: 30%; }
 
 .java {
   background-color: #ff0000;
@@ -284,7 +284,7 @@ main {
 
 .sql {
   background-color: #007a7a;
-  width: 35%; }
+  width: 30%; }
 
 .c {
   background-color: #a8b9cc;
@@ -292,15 +292,19 @@ main {
 
 .cplusplus {
   background-color: #0104af;
-  width: 25%; }
+  width: 45%; }
 
 .bash {
   background-color: #000000;
-  width: 45%; }
+  width: 40%; }
 
 .asm {
   background-color: #0071c5;
-  width: 45%; }
+  width: 40%; }
+
+.ruby {
+  background-color: #8b0000;
+  width: 25%; }
 
 .gazebo {
   background-color: #d3d3d3;
