@@ -205,7 +205,7 @@ main {
   .about-info .job-3 {
     grid-area: job3; }
   .about-info .job-3:hover {
-    background: #fff url("../img/work/frimesa_logo.png") no-repeat right top/50%;
+    background: #fff url("../img/work/negativo_logo_UTFPR.jpg") no-repeat right top/50%;
     transition: all 0.5s ease-out;
     color: #000000; }
   .about-info .job {
