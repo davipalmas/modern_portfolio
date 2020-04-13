@@ -140,8 +140,8 @@ main {
   }
 
   .job-1:hover {
-    background: #fff url('../img/work/swa.jpeg') no-repeat right
-      top/45%;
+    background: #fff url('../img/work/swa.jpg') no-repeat right
+      top/40%;
     transition: all 0.5s ease-out;
     color: #000;
   }
@@ -152,7 +152,7 @@ main {
 
   .job-2:hover {
     background: #fff url('../img/work/negativo_logo_UTFPR.jpg') no-repeat right
-      top/50%;
+      top/40%;
     transition: all 0.5s ease-out;
     color: #000000;
   }
@@ -162,7 +162,7 @@ main {
   }
 
   .job-3:hover {
-    background: #fff url('../img/work/negativo_logo_UTFPR.jpg') no-repeat right top/50%;
+    background: #fff url('../img/work/negativo_logo_UTFPR.jpg') no-repeat right top/40%;
     transition: all 0.5s ease-out;
     color: #000000;
   }
@@ -454,7 +454,7 @@ main {
 }
 
 .award img {
-  float: right;
+  float: center;
   width: 20rem;
 }
 
