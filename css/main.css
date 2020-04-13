@@ -57,14 +57,14 @@
       height: 250px;
       background: url("../img/portrait.jpeg");
       border-radius: 50%;
-      border: solid 3px #00FFFF; }
+      border: solid 3px #0000FF; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
     .menu .nav-item.show {
       transform: translate3d(0, 0, 0); }
     .menu .nav-item.current > a {
-      color: #00FFFF; }
+      color: #0000FF; }
   .menu .nav-link {
     display: inline-block;
     position: relative;
@@ -76,7 +76,7 @@
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
-      color: #00FFFF; }
+      color: #0000FF; }
 
 .nav-item:nth-child(1) {
   transition-delay: 0.1s; }
@@ -140,7 +140,7 @@ header {
   width: 100%; }
 
 .text-secondary {
-  color: #00FFFF; }
+  color: #0000FF; }
 
 main {
   padding: 4rem;
@@ -150,7 +150,7 @@ main {
     main .icons a {
       padding: 0.4rem; }
       main .icons a:hover {
-        color: #00FFFF;
+        color: #0000FF;
         transition: all 0.5s ease-out; }
   main#home {
     overflow: hidden; }
@@ -166,7 +166,7 @@ main {
     grid-area: bioimage;
     margin: auto;
     border-radius: 50%;
-    border: #00FFFF 3px solid; }
+    border: #0000FF 3px solid; }
   .about-info .bio {
     grid-area: bio;
     font-size: 1.5rem; }
@@ -193,19 +193,19 @@ main {
   .about-info .job-1 {
     grid-area: job1; }
   .about-info .job-1:hover {
-    background: #fff url("../img/work/swa.jpeg") no-repeat right top/45%;
+    background: #fff url("../img/work/swa.jpg") no-repeat right top/40%;
     transition: all 0.5s ease-out;
     color: #000; }
   .about-info .job-2 {
     grid-area: job2; }
   .about-info .job-2:hover {
-    background: #fff url("../img/work/negativo_logo_UTFPR.jpg") no-repeat right top/50%;
+    background: #fff url("../img/work/negativo_logo_UTFPR.jpg") no-repeat right top/40%;
     transition: all 0.5s ease-out;
     color: #000000; }
   .about-info .job-3 {
     grid-area: job3; }
   .about-info .job-3:hover {
-    background: #fff url("../img/work/negativo_logo_UTFPR.jpg") no-repeat right top/50%;
+    background: #fff url("../img/work/negativo_logo_UTFPR.jpg") no-repeat right top/40%;
     transition: all 0.5s ease-out;
     color: #000000; }
   .about-info .job {
@@ -452,7 +452,7 @@ main {
   padding: 1rem; }
 
 .award img {
-  float: right;
+  float: center;
   width: 20rem; }
 
 .award-0 {
@@ -482,7 +482,7 @@ main {
     border: 3px #fff solid; }
     .projects img:hover {
       opacity: 0.5;
-      border-color: #00FFFF;
+      border-color: #0000FF;
       transition: all 0.5s ease-out; }
 
 .boxes {
@@ -499,7 +499,7 @@ main {
     transition: all 0.5s ease-out; }
     .boxes div:hover {
       padding: 0.25rem 1.5rem;
-      background: #00FFFF;
+      background: #0000FF;
       transform: scale(1.5);
       color: #000; }
       .boxes div:hover span {
@@ -511,7 +511,7 @@ main {
   border: 0;
   margin-bottom: 0.3rem; }
   .btn:hover, .btn-dark:hover, .btn-light:hover {
-    background: #00FFFF;
+    background: #0000FF;
     color: #000; }
 
 .btn-dark {
