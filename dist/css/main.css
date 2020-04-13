@@ -260,7 +260,7 @@ main {
 
 .js {
   background-color: #fbde34;
-  width: 15%; }
+  width: 25%; }
 
 .nodejs {
   background-color: #83cd29;
@@ -268,11 +268,11 @@ main {
 
 .python {
   background-color: #37709f;
-  width: 30%; }
+  width: 40%; }
 
 .java {
   background-color: #ff0000;
-  width: 40%; }
+  width: 50%; }
 
 .php {
   background-color: #8993be;
@@ -284,23 +284,23 @@ main {
 
 .sql {
   background-color: #007a7a;
-  width: 30%; }
+  width: 40%; }
 
 .c {
   background-color: #a8b9cc;
-  width: 55%; }
+  width: 40%; }
 
 .cplusplus {
   background-color: #0104af;
-  width: 45%; }
+  width: 50%; }
 
 .bash {
   background-color: #000000;
-  width: 40%; }
+  width: 30%; }
 
 .asm {
   background-color: #0071c5;
-  width: 40%; }
+  width: 30%; }
 
 .ruby {
   background-color: #8b0000;
@@ -352,7 +352,7 @@ main {
 
 .git {
   background-color: #f05033;
-  width: 25%; }
+  width: 40%; }
 
 .heroku {
   background-color: #7d57c1;
@@ -365,7 +365,7 @@ main {
 
 .windows {
   background-color: #03a9f4;
-  width: 40%; }
+  width: 20%; }
 
 .osx {
   background-color: #f0f6f4;
@@ -452,7 +452,7 @@ main {
   padding: 1rem; }
 
 .award img {
-  float: center;
+  float: right;
   width: 20rem; }
 
 .award-0 {
