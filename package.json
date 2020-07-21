@@ -1,5 +1,5 @@
 {
-  "name": "modern_portfolio-master",
+  "name": "portfolio_site-master",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "dependencies": {
     "gh-pages": "^2.2.0",
     "mixin-deep": "^2.0.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "sass": "^1.26.3"
   },
   "devDependencies": {},
